@@ -215,6 +215,7 @@ HEADER  ***********************************************************
   grid-template-columns: repeat(2, 1fr);
   grid-column-gap: 1em;
   grid-row-gap: 1.5em;
+  align-content: center;
 }
 
 .card {
